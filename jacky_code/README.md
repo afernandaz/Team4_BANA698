@@ -10,7 +10,6 @@ Generates “flare” visuals showing how each combo performs across:
 early_likes, early_comments, early_shares
 persuasive_power_index
 early_engagement_velocity
-Runs OLS regression (RQ1) and prints hypothesis support
 Key descriptive findings (high-level)
 Dataset is clean (no missing values, no duplicates)
 Early engagement window is standardized (60 minutes)
