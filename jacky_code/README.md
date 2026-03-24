@@ -1,5 +1,7 @@
-testcode_1.py is the overall descriptive file.
-What the script does
+testcode_1.py is the overall descriptive file.  
+
+What the script does:  
+
 Loads the dataset (dataset_algorithmic_persuasion_10000.xlsx)
 Runs data-quality checks (missing values, duplicates, date range)
 Summarizes key variables (early likes/comments/shares, reach, impressions, authority, PPI)
